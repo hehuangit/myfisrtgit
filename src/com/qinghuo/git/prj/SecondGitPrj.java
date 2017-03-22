@@ -1,5 +1,9 @@
 package com.qinghuo.git.prj;
-
+/**
+ * 
+ * @author hehuan
+ *
+ */
 public class SecondGitPrj {
 
 	public static void main(String[] args) {
