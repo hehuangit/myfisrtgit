@@ -11,9 +11,13 @@ public class MyFirstGitPrj {
 		System.out.println("This is my first git prj.");
 		
 		for(int i = 0; i < 10; i++) {
-			System.out.println("This is my first git prj.");
+			print(i + "");
 		}
 		
+	}
+	
+	public static void print(String msg) {
+		System.out.println(msg);
 	}
 
 }
