@@ -16,10 +16,21 @@ public class MyFirstGitPrj {
 			print(i + "");
 		}
 		
+		System.out.println(getRemoveVal(0));
+		
 	}
 	
 	public static void print(String msg) {
 		System.out.println(msg);
+	}
+	
+	/**
+	 * 
+	 * @param val
+	 * @return
+	 */
+	private static int getRemoveVal(int val) {
+		return 1 << val;
 	}
 
 }
