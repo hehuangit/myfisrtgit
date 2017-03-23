@@ -11,7 +11,13 @@ public class SecondGitPrj {
 		for(int i = 0; i < 10; i++) {
 			new Thread(new MyJob()).start();
 		}
+		
+		System.out.println("======" + getVal(16));
 
+	}
+	
+	private static int getVal(int feet) {
+		return feet >>> 1;
 	}
 	static class MyJob implements Runnable {
 		@Override
