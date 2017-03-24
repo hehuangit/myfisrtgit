@@ -13,7 +13,10 @@ public class SecondGitPrj {
 		}
 		
 		System.out.println("======" + getVal(16));
+		
+		System.out.println("***************");
 
+		System.out.println("======" + getVal(16));
 	}
 	
 	private static int getVal(int feet) {
