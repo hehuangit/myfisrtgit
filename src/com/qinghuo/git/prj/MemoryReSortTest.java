@@ -1,7 +1,7 @@
 package com.qinghuo.git.prj;
 /**
  * œﬂ≥Ã÷ÿ≈≈–Ú≤‚ ‘.
- * @author hehuan
+ * @author hehuan.
  *
  */
 public class MemoryReSortTest {
