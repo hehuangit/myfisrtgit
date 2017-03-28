@@ -3,7 +3,7 @@ package com.qinghuo.git.observer;
 import java.util.Observable;
 /**
  * ±ªπ€≤Ï’ﬂ.
- * @author hehuan
+ * @author hehuan xxxxx
  *
  */
 public class BeingWatched extends Observable {
